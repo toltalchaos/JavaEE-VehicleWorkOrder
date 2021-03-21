@@ -1,4 +1,4 @@
-# Project org.example/dmit2015-assignment03-BraydonTol
+# Vehicle work order assignment demo
 
 Steps to run this project:
 
